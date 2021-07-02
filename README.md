@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <h1>Hi 👋🏻, I'm Kübra </h1>
 
 ### What do I do? 👨🏻‍💻 
-<p>Currently, I am working as a Software Engineer at Turkcell Technology.   </p>
+<!-- <p>Currently, I am working as a Software Engineer at Turkcell Technology.   </p> -->
 
 
 ### How to find me? 📨
