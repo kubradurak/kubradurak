@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 ### How to find me? 📨
 
-<p align="left"> <a href="https://www.linkedin.com/in/kübra-durak-8a6203111/" target="_blank"> <img src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="linkedin" width="30" height="30"/>
+<p align="left"> <a href="https://www.linkedin.com/in/kubra-durak/" target="_blank"> <img src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="linkedin" width="30" height="30"/>
  
 
 
