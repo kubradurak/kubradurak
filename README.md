@@ -26,7 +26,7 @@ Here are some ideas to get you started:
  <br>
 <br />
  
- <div  align="center"> <img src="https://github.com/rmya/rmya/blob/output/github-contribution-grid-snake.svg" /></div>
+ <div  align="center"> <img src="https://github.com/kubradurak/kubradurak/blob/output/github-contribution-grid-snake.svg" /></div>
  
 
 
