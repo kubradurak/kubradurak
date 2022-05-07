@@ -20,10 +20,9 @@ Here are some ideas to get you started:
 
 
 <h1>Hi 👋🏻, I'm Kübra </h1>
-<p>👩‍💻 I’m currently working as an Backend Developer in Ericsson.</p> 
-<p align="left"> <a href="https://www.linkedin.com/in/kubra-durak/" target="_blank"> <img src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="linkedin" width="30" height="30"/>
+<p>👩‍💻 I’m currently working as an Backend Developer in Ericsson.</p>
  
- <br>
+<br>
 <br />
  
  <div  align="center"> <img src="https://github.com/kubradurak/kubradurak/blob/output/github-contribution-grid-snake.svg" /></div>
