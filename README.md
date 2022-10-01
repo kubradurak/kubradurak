@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 
 <h1>Hi 👋🏻, I'm Kübra </h1>
-<p>👩‍💻 I’m currently working as an Software Developer in Ericsson.</p>
+<p>👩‍💻 I’m currently working as a Software Developer in Ericsson.</p>
  
 <br>
 <br />
